@@ -1,0 +1,20 @@
+# Swift Student Challenge
+
+### AppName
+ZenReflection
+
+#### Tell us about the features and technologies you used.
+Modern people are too busy to take time to reflect on their daily lives. This application aims to introduce Zen words that can guide our way of life, so that we can take time out from our daily routine to reflect on our own lives.
+The app allows you to select a time for reflection, and has the ability to browse through a variety of Zen words. It also has a function to play music suitable for relaxation during the selected time. Users can listen to pleasant music while reading Zen words. When the session is over, the Zen words viewed are recorded in the list function. In this case, UserDefaults is used to save the data.
+For the calendar function, UICalendarView is used to record the date of reflection.
+AVFoundation is used for music playback, enabling playback and volume on/off of music files.
+
+#### Beyond the Swift Student Challenge
+I provide daily coding support to junior students at my university and lab. As a contribution to the community, I have created an app that allows users to visualize indoor ventilation conditions by creating a CO2 sensor, created part of an in-house system for a transportation company, created an official app for an aquarium, created an official app for a university, and created a survey app for a local government. I will also support students' coding as a Coding Mentor for the Techovation Girls 2024 Contests organized by a non-profit organization starting in March.
+
+
+### Apps on the App Store
+All the apps were created by the team, so no individual apps were created.
+
+###  Repository URL
+https://github.com/KSUISIC/23GJK01-Abe/tree/main/ZenReflection
